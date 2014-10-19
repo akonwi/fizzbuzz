@@ -1,4 +1,3 @@
-# comment
 (1..100).each do |i|
   str = ''
   if i % 3 == 0
