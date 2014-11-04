@@ -1,4 +1,3 @@
-# adding a comment
 for i in [1..100]
   str = ''
   str += 'Fizz' if i % 3 is 0
