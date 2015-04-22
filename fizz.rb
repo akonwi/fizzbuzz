@@ -1,3 +1,4 @@
+# this is a comments
 (1..100).each do |i|
   str = ''
   if i % 3 == 0
@@ -7,3 +8,4 @@
   end
   puts str.empty? ? i : str
 end
+# another comment
