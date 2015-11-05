@@ -1,5 +1,5 @@
 class Fizz
   def reinitialize
-    poo
+    poo = 'name'
   end
 end
