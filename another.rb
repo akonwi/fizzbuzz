@@ -1,4 +1,4 @@
 class Fizz
-  def initialize
+  def reinitialize
   end
 end
