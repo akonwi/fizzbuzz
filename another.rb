@@ -1,5 +1,5 @@
 class Fizz
   def initialize
-    'string'
+    @variable = 'string'
   end
 end
