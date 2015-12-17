@@ -3,6 +3,5 @@ class Fizz
   end
   
   def reinitialize
-    :stuff
   end
 end
