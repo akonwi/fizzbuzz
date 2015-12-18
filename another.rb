@@ -4,7 +4,6 @@ class Fizz
       puts 'buzz'
     end
   end
-
   def reinitialize
   end
 end
