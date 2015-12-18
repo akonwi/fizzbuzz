@@ -4,7 +4,7 @@ class Fizz
       puts 'buzz'
     end
   end
-  def init
+  def initialize
     swag = 'none'
   end
 end
