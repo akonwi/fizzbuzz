@@ -5,6 +5,6 @@ class Fizz
     end
   end
 
-  def reinitialize
+  def init
   end
 end
