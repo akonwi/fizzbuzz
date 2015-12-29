@@ -1,3 +1,4 @@
+class Fizz
   module Buzz
     def to_s
     end
