@@ -1,6 +1,6 @@
 class Fizz
   module Buzz
-    def to_s
+    def foo_bar
     end
   end
   def initialize
