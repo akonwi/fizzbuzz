@@ -5,6 +5,6 @@ class Fizz
     end
   end
   def initialize
-    swag = 'none'
+    swag = :none
   end
 end
