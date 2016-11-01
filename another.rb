@@ -6,6 +6,7 @@ class Fizz
 
     def +(thing)
       swag++
+      
     end
   end
 end
