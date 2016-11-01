@@ -4,7 +4,7 @@ class Fizz
       swag = :none
     end
 
-    def +(thing)
+    def +(that)
       swag++
       
     end
