@@ -3,9 +3,5 @@ class Fizz
     def initialize
       swag = :none
     end
-
-    def +(this)
-      swag++
-    end
   end
 end
