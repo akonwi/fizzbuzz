@@ -1,6 +1,4 @@
 class Fizz
-  attr_accessor :foo
-  
   module Buzz
     def initialize
       swag = :none
