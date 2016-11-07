@@ -3,6 +3,5 @@ class Fuzz
     def initialize
       swag = :none
     end
-
   end
 end
