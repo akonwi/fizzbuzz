@@ -1,7 +1,7 @@
 class Fuzz
   module Buzz
     def initialize
-      swag = :none
+      points = 100
     end
   end
 end
