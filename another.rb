@@ -1,7 +1,7 @@
 class Fuzz
   module Bizz
     def init
-      points = 99
+      points = 98
     end
   end
 end
