@@ -1,5 +1,5 @@
 class Fuzz
-  module Buzz
+  module Bizz
     def initialize
       points = 100
     end
