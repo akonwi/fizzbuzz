@@ -1,7 +1,7 @@
 class Fizz
   module Buzz
     def initialize
-      swag = :all
+      swag = :none
     end
   end
 end
