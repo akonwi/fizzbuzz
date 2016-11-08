@@ -1,6 +1,4 @@
 class Fizz
-  module Buzz
-    def inititialize(@points)
-    end
+  def inititialize(@points)
   end
 end
