@@ -1,6 +1,6 @@
 class Fuzz
   module Bizz
-    def init
+    def inititialize
       points = 97
     end
   end
