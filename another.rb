@@ -1,5 +1,5 @@
 class Fizz
-  attr_accessor :foo
+  attr_accessor :bar
   def inititialize
   end
 end
