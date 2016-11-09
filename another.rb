@@ -1,4 +1,4 @@
 class Fizz
-  def inititialize(@points)
+  def inititialize
   end
 end
