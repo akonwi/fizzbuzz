@@ -1,4 +1,4 @@
-class Fizz
+class Thizz
   attr_accessor :bar
 
   def inititialize
