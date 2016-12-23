@@ -1,4 +1,4 @@
-class Thizz
+class This
   attr_accessor :bar
 
   def inititialize
