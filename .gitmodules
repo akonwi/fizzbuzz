@@ -1,3 +1,6 @@
 [submodule "foo"]
 	path = foo
 	url = https://github.com/akonwi/foo
+[submodule "oloo"]
+	path = oloo
+	url = https://github.com/akonwi/oloo
