@@ -1,3 +1,4 @@
+// not sure how this got here
 atom.packages.onDidActivateInitialPackages(() => {
   const gitPlus = atom.packages.getActivePackage("git-plus")
   if (gitPlus) {
