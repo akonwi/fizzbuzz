@@ -1,3 +1,4 @@
+// https://github.com/akonwi/fizzbuzz
 atom.packages.onDidActivateInitialPackages(() => {
   const gitPlus = atom.packages.getActivePackage("git-plus")
   if (gitPlus) {
